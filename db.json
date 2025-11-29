@@ -1,0 +1,151 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Іван Петренко",
+            "email": "ivan@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Олена Коваль",
+            "email": "olena@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Андрій Шевченко",
+            "email": "andrii@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Марія Бондар",
+            "email": "maria@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "Максим Ткач",
+            "email": "max@gmail.com"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Ноутбук Asus",
+            "price": 32000,
+            "user_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Смартфон Samsung",
+            "price": 21000,
+            "user_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Навушники Sony",
+            "price": 4500,
+            "user_id": 2
+        },
+        {
+            "id": 4,
+            "name": "Монітор LG",
+            "price": 8700,
+            "user_id": 2
+        },
+        {
+            "id": 5,
+            "name": "Клавіатура Logitech",
+            "price": 2600,
+            "user_id": 2
+        },
+        {
+            "id": 6,
+            "name": "Мишка Razer",
+            "price": 3100,
+            "user_id": 3
+        },
+        {
+            "id": 7,
+            "name": "Планшет Lenovo",
+            "price": 14000,
+            "user_id": 3
+        },
+        {
+            "id": 8,
+            "name": "SSD 1TB Samsung",
+            "price": 4200,
+            "user_id": 3
+        },
+        {
+            "id": 9,
+            "name": "Процесор Ryzen 5",
+            "price": 7800,
+            "user_id": 3
+        },
+        {
+            "id": 10,
+            "name": "Відеокарта RTX 3060",
+            "price": 16500,
+            "user_id": 4
+        },
+        {
+            "id": 11,
+            "name": "Блок живлення 700W",
+            "price": 3900,
+            "user_id": 4
+        },
+        {
+            "id": 12,
+            "name": "Оперативна пам'ять 16GB",
+            "price": 2400,
+            "user_id": 4
+        },
+        {
+            "id": 13,
+            "name": "Корпус ПК",
+            "price": 2800,
+            "user_id": 4
+        },
+        {
+            "id": 14,
+            "name": "Смарт-годинник Xiaomi",
+            "price": 5200,
+            "user_id": 5
+        },
+        {
+            "id": 15,
+            "name": "Power Bank 20000mAh",
+            "price": 1800,
+            "user_id": 5
+        },
+        {
+            "id": 16,
+            "name": "Wi-Fi роутер TP-Link",
+            "price": 2300,
+            "user_id": 5
+        },
+        {
+            "id": 17,
+            "name": "Web-камера",
+            "price": 1900,
+            "user_id": 5
+        },
+        {
+            "id": 18,
+            "name": "Принтер HP",
+            "price": 6400,
+            "user_id": 1
+        },
+        {
+            "id": 19,
+            "name": "Сканер Epson",
+            "price": 7100,
+            "user_id": 2
+        },
+        {
+            "id": 20,
+            "name": "Ігровий джойстик",
+            "price": 2500,
+            "user_id": 3
+        }
+    ]
+}
