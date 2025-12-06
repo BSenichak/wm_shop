@@ -42,3 +42,36 @@ main {
 .product a {
     text-decoration: none;
 }
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.cartWrapper {
+    position: relative;
+    width: fit-content;
+}
+
+.cart {
+    position: absolute;
+    width: 300px;
+    right: -0.5rem;
+    top: 2.3rem;
+    background-color: white;
+    border-radius: 0.5rem;
+}
+
+.cart:before {
+    content: "";
+    height: 1rem;
+    z-index: 5;
+    position: absolute;
+    bottom: 1.3rem;
+    right: 0.2rem;
+    border: 1rem solid transparent;
+    border-bottom-color: white;
+    border-bottom-width: 1rem;
+}
